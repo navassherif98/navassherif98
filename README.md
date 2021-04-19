@@ -15,7 +15,7 @@ Looking to start the career as an entry-level Data Scientist , Data Analyst , Py
 
 My career objective is to pursue a challenging career and be part of a progressive organisation to utilise my technical and analytical skills for growth of the organisation as well as to enchance my knowledge about new and emerging trends in IT sector. 
 
-Resume : <a href="https://drive.google.com/file/d/1aSYdhJCWg6_1XSiZrRTNSttJZjzIvKXO/view?usp=sharing">Navas Sherif I</a>
+Resume : <a href="https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing">Navas Sherif I</a>
 
 ### Connect with me:
 

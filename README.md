@@ -1,21 +1,22 @@
-### Hi there, I'm Navas Sherif I - B.Tech Computer Science Final Year Student 👋
+## 👋Hi there, I'm [Navas Sherif I](https://navassherif98.github.io/Portfolio/) - Associate Software Developer at [IQVIA](https://www.iqvia.com/) 🏢
 
-## I'm a Student , Developer, and Small Entrepreneur
+### I'm a Btech Computer Science Graduate (2021 Batch) 
 
 - 🔭 A Data Science Enthusiastic
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learning New Skills on the field of Data Science and Web Development
-- ⚡ Fun fact: I love Football and My fav Team is FC Barcelona
+- 🌱 I’m currently working on :
+    - Deep Learning
+    - Big Data
+- 🥅 2021 Goals: Learning New Skills on the field of Data Science, Big Data and Web Development
+- ⚡ Fun fact: I love Football⚽  and My favourite Player is Messi 👑
 
 ### About :
-Computer Engineer , A continuous Learner, with good knowledge of Data Science , Deep Learning. Posses strong coding and problem solving skills with hands on experience with latest technologies.
-
-Seeking a new position where background in the field of Data Science.
-Looking to start the career as an entry-level Data Scientist , Data Analyst , Python Developer , Web Developer with reputed firm driven by technology.
+Software Developer , A continuous Learner, with good knowledge of Data Science , Deep Learning. Posses strong coding and problem solving skills with hands on experience with latest technologies.
 
 My career objective is to pursue a challenging career and be part of a progressive organisation to utilise my technical and analytical skills for growth of the organisation as well as to enchance my knowledge about new and emerging trends in IT sector. 
 
-Resume : <a href="https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing">Navas Sherif I</a>
+Resume : [Navas Sherif I](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing)
+
+Portfolio : [Navas Portfolio](https://navassherif98.github.io/Portfolio/)
 
 ### Connect with me:
 

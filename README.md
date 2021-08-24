@@ -14,7 +14,7 @@ Software Developer , A continuous Learner, with good knowledge of Data Science ,
 
 My career objective is to pursue a challenging career and be part of a progressive organisation to utilise my technical and analytical skills for growth of the organisation as well as to enchance my knowledge about new and emerging trends in IT sector. 
 
-Resume : [Navas Sherif I](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing)
+Resume : [Navas Resume](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing)
 
 Portfolio : [Navas Portfolio](https://navassherif98.github.io/Portfolio/)
 

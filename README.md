@@ -23,7 +23,7 @@ CV : [Navas CV](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLS
 
 ### My Recent Certification :
 
-<a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/7PC2MFJV7NJD"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/IBM%20Data%20Science.png" alt="Portfolio" width="500" height="220"></img></a>  
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/professional-cert/7PC2MFJV7NJD><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/IBM%20Data%20Science.png" alt="Portfolio" width="500" height="220"></img></a>  
 #### Repository : [View IBM Data Science Repository ](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification)It contains all Assignment and Quiz Answers of this course.
 
 ***

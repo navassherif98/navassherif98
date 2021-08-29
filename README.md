@@ -1,4 +1,4 @@
-## 👋Hi there, I'm [Navas Sherif I](https://navassherif98.github.io/Portfolio/) - Associate Software Developer at [IQVIA](https://www.iqvia.com/) 🏢
+## <img src="https://github.com/navassherif98/navassherif98/blob/main/assets/wave-hello.gif" width="40px"> Hi there, I'm [Navas Sherif I](https://navassherif98.github.io/Portfolio/) - Associate Software Developer at [IQVIA](https://www.iqvia.com/) 🏢
 
 ### I'm a Btech Computer Science Graduate (2021 Batch) 
 
@@ -23,7 +23,7 @@ CV : [Navas CV](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLS
 
 ### My Recent Certification :
 
-<a target="_blank" href="https://www.coursera.org/account/accomplishments/professional-cert/7PC2MFJV7NJD><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/IBM%20Data%20Science.png" alt="Portfolio" width="500" height="220"></img></a>  
+<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/7PC2MFJV7NJD"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/IBM%20Data%20Science.png" alt="Portfolio" width="500" height="220"></img></a>  
 #### Repository : [View IBM Data Science Repository ](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification)It contains all Assignment and Quiz Answers of this course.
 
 ***
@@ -34,7 +34,7 @@ CV : [Navas CV](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLS
 [<img align="left" alt="navassherif98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
-<a target="_blank" href="https://navassherif98.github.io/Portfolio/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Portfolio.png" alt="Portfolio" width="430" height="185"></img></a>  <a target="_blank" href="https://www.linkedin.com/in/navassherif/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Linkedin.png" alt="Portfolio" width="430" height="180"></img></a>
+<a target="Portfolio" href="https://navassherif98.github.io/Portfolio/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Portfolio.png" alt="Portfolio" width="430" height="185"></img></a>  <a target="Linkedin" href="https://www.linkedin.com/in/navassherif/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Linkedin.png" alt="Portfolio" width="430" height="180"></img></a>
 
 <br />
 

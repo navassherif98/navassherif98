@@ -4,24 +4,37 @@
 
 - 🔭 A Data Science Enthusiastic
 - 🌱 I’m currently working on :
-    - Deep Learning
-    - Big Data
+    - [ ] Deep Learning
+    - [X] Big Data
 - 🥅 2021 Goals: Learning New Skills on the field of Data Science, Big Data and Web Development
 - ⚡ Fun fact: I love Football⚽  and My favourite Player is Messi 👑
+- 🌟 *Motivated by the desire to achieve success*
+
+***
 
 ### About :
-Software Developer , A continuous Learner, with good knowledge of Data Science , Deep Learning. Posses strong coding and problem solving skills with hands on experience with latest technologies.
+A continuous Learner, with good knowledge of Data Science , Deep Learning. Posses strong coding and problem solving skills with hands on experience with latest technologies.
 
 My career objective is to pursue a challenging career and be part of a progressive organisation to utilise my technical and analytical skills for growth of the organisation as well as to enchance my knowledge about new and emerging trends in IT sector. 
 
-Resume : [Navas Resume](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing)
+CV : [Navas CV](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing)
 
-Portfolio : [Navas Portfolio](https://navassherif98.github.io/Portfolio/)
+***
+
+### My Recent Certification :
+
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/7PC2MFJV7NJD"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/IBM%20Data%20Science.png" alt="Portfolio" width="500" height="220"></img></a>  
+#### Repository : [View IBM Data Science Repository ](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification)It contains all Assignment and Quiz Answers of this course.
+
+***
 
 ### Connect with me:
 
 [<img align="left" alt="navassherif98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="navassherif98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
+<a target="_blank" href="https://navassherif98.github.io/Portfolio/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Portfolio.png" alt="Portfolio" width="430" height="185"></img></a>  <a target="_blank" href="https://www.linkedin.com/in/navassherif/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Linkedin.png" alt="Portfolio" width="430" height="180"></img></a>
 
 <br />
 

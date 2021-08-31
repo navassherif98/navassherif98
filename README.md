@@ -34,7 +34,7 @@ CV : [Navas CV](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLS
 [<img align="left" alt="navassherif98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
-<a target="Portfolio" href="https://navassherif98.github.io/Portfolio/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Portfolio.png" alt="Portfolio" width="430" height="185"></img></a>  <a target="Linkedin" href="https://www.linkedin.com/in/navassherif/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Linkedin.png" alt="Portfolio" width="430" height="180"></img></a>
+<a target="Portfolio" href="https://navassherif98.github.io/Portfolio/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Portfolio.png" alt="Portfolio" width="415" height="170"></img></a>  <a target="Linkedin" href="https://www.linkedin.com/in/navassherif/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Linkedin.png" alt="Portfolio" width="415" height="165"></img></a>
 
 <br />
 

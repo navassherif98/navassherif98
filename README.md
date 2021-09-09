@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/navassherif98/README.md.svg?cache=remove)
+
 ## <img src="https://github.com/navassherif98/navassherif98/blob/main/assets/wave-hello.gif" width="40px"> Hi there, I'm [Navas Sherif I](https://navassherif98.github.io/Portfolio/) - Associate Software Developer at [IQVIA](https://www.iqvia.com/) 🏢
 
 ### I'm a Btech Computer Science Graduate (2021 Batch) 

@@ -2,24 +2,12 @@
 
 ## <img src="https://github.com/navassherif98/navassherif98/blob/main/assets/wave-hello.gif" width="40px"> Hi there, I'm [Navas Sherif I](https://navassherif98.github.io/Portfolio/) - Associate Software Developer at [IQVIA](https://www.iqvia.com/) 🏢
 
-### I'm a Btech Computer Science Graduate (2021 Batch) 
+### Passionate Data Engineer | Big Data Enthusiast | Problem Solver
 
-- 🔭 A Data Science Enthusiastic
-- 🌱 I’m currently working on :
-    - [ ] Deep Learning
-    - [X] Big Data
-- 🥅 2021 Goals: Learning New Skills on the field of Data Science, Big Data and Web Development
-- ⚡ Fun fact: I love Football⚽  and My favourite Player is Messi 👑
-- 🌟 *Motivated by the desire to achieve success*
+Welcome to my GitHub profile! I'm a passionate data engineer with expertise in designing and implementing scalable data solutions. I love diving into big data challenges and leveraging the latest technologies to extract actionable insights. My repositories showcase projects where I've optimized data pipelines, implemented ETL processes, and applied data science techniques. I'm constantly exploring new tools and frameworks to stay at the forefront of the rapidly evolving data engineering landscape. Let's connect and collaborate on exciting data-driven projects!
 
-***
 
-### About :
-A continuous Learner, with good knowledge of Data Science , Deep Learning. Posses strong coding and problem solving skills with hands on experience with latest technologies.
-
-My career objective is to pursue a challenging career and be part of a progressive organisation to utilise my technical and analytical skills for growth of the organisation as well as to enchance my knowledge about new and emerging trends in IT sector. 
-
-CV : [Navas CV](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing)
+CV : [Navas CV](https://drive.google.com/file/d/1-YW44Zd3g9imshmLSaLV4lSmGDXJDlBK/view)
 [<img align="left" alt="navassherif98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="navassherif98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 

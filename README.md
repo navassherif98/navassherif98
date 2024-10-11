@@ -2,12 +2,12 @@
 
 ## <img src="https://github.com/navassherif98/navassherif98/blob/main/assets/wave-hello.gif" width="40px"> Hi there, I'm [Navas Sherif I](https://navassherif98.github.io/Portfolio/) - Associate Software Developer at [IQVIA](https://www.iqvia.com/) 🏢
 
-### Passionate Data Engineer | Big Data Enthusiast | Problem Solver
+### Passionate Data Engineer | Big Data Developer | Spark Scala Developer
 
 Welcome to my GitHub profile! I'm a passionate data engineer with expertise in designing and implementing scalable data solutions. I love diving into big data challenges and leveraging the latest technologies to extract actionable insights. My repositories showcase projects where I've optimized data pipelines, implemented ETL processes, and applied data science techniques. I'm constantly exploring new tools and frameworks to stay at the forefront of the rapidly evolving data engineering landscape. Let's connect and collaborate on exciting data-driven projects!
 
 
-CV : [Navas CV](https://drive.google.com/file/d/1-YW44Zd3g9imshmLSaLV4lSmGDXJDlBK/view)
+CV : [Download Navas_Sherif_CV](https://drive.google.com/file/d/11r8a53DBvbA3f-002ABfoRHe5rhi3X9a/view)
 [<img align="left" alt="navassherif98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="navassherif98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
@@ -28,7 +28,8 @@ CV : [Navas CV](https://drive.google.com/file/d/1-YW44Zd3g9imshmLSaLV4lSmGDXJDlB
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Apache Spark" width="26px" src="![image](https://github.com/user-attachments/assets/c60dc760-4a48-4fda-97c2-eb0de92c5b60)
+" />
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

@@ -28,18 +28,17 @@ CV : [Download Navas_Sherif_CV](https://drive.google.com/file/d/11r8a53DBvbA3f-0
 
 ### Languages and Tools:
 
-<img align="left" alt="Apache Spark" width="26px" src="![image](https://github.com/user-attachments/assets/c60dc760-4a48-4fda-97c2-eb0de92c5b60)
-" />
-<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Apache Spark" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/Apache%20Spark.png" />
+<img align="left" alt="Apache Hadoop" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/Apache%20Hadoop.png" />
+<img align="left" alt="Apache Airflow" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/Apache%20Airflow.png" />
+<img align="left" alt="Scala" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/Scala.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/Python.png" />
+<img align="left" alt="Azure" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/Azure.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/MySQL.png" />
+<img align="left" alt="Azure SQL Database" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/Azure%20SQL%20Database.png" />
+<img align="left" alt="GitLab" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/GitLab.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/navassherif98/navassherif98/blob/main/assets/Git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
